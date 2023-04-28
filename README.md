@@ -1,6 +1,6 @@
 **ÁRBOLES DE DECISIÓN - CLASIFICACIÓN**    
 
-**DESCRIPCIÓN**: Práctica sobre K VECINOS CERCANOS (K-NN).    
+**DESCRIPCIÓN**: CLasificación utilizando árboles de decisión.    
 
 **ESTADO DEL PROYECTO**: EN PROCESO.    
 
